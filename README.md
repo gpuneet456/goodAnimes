@@ -1,2 +1,2 @@
-# goodAnimes
+# emoji-interpreter
 Created with CodeSandbox

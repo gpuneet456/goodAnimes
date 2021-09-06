@@ -1,0 +1,18 @@
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+}*/
+body {
+  background-color: #4338ca;
+  color: white;
+}
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+/* 
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+} */

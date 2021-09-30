@@ -1,2 +1,2 @@
-# emoji-interpreter
-Created with CodeSandbox
+# Good Animes Reccomendations
+Website that recommend good animes based on genre made using React
